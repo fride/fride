@@ -9,9 +9,13 @@ import heos/connection
 import heos/command
 
 pub fn main() {
-  io.println("Hello from glanz_heos!")
   let assert Ok(socket) = connection.connect_to("192.168.178.34")
   let executor = connection.execute_command(socket, _)
 
+  io.println("Hello from glanz_heos!")
   io.debug(command.get_player_infos(executor))
+
+  io.println("Hello from glanz_heos!")
+  io.debug(command.get_play_state(executor, 12))
+  io.debug(command.get_play_state(executor, -1_428_708_007))
 }

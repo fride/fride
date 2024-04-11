@@ -7,4 +7,6 @@ pub type HeosError {
   NetworkError(cause: mug.Error)
   JsonError(cause: json.DecodeError)
   DecoderError(cause: List(dynamic.DecodeError))
+  Ooops(context: String)
+  InvalidHeosCommand(message: String)
 }
