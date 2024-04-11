@@ -1,0 +1,3 @@
+* Learning Gleam
+
+A fun little language running on two interesting targets, the BEAM engine and Javascript.

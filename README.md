@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Jan's stuff. I have no idea what I will put in here.
+
 <!--
 **fride/fride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
