@@ -1,12 +1,17 @@
 import gleam/io
-import mug
+import gleam/result
+import gleam/json
+import gleam/dynamic.{
+  type DecodeError, type Dynamic, dynamic, field, int, list, optional,
+  optional_field, string,
+}
+import heos/connection
+import heos/command
 
 pub fn main() {
   io.println("Hello from glanz_heos!")
-  let assert Ok(socket) =
-    mug.new("erlang-the-movie.example.com", port: 12_345)
-    |> mug.timeout(milliseconds: 500)
-    |> mug.connect()
+  let assert Ok(socket) = connection.connect_to("192.168.178.34")
+  let executor = connection.execute_command(socket, _)
 
-  let assert Ok(Nil) = mug.send(socket, <<"Hello, Joe!\r\n":utf8>>)
+  io.debug(command.get_player_infos(executor))
 }

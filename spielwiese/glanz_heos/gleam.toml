@@ -17,6 +17,7 @@ gleam_stdlib = "~> 0.34 or ~> 1.0"
 gleam_json = "~> 1.0"
 glisten = "~> 2.0"
 mug = "~> 1.0"
+snag = "~> 0.3"
 
 [dev-dependencies]
 gleeunit = "~> 1.0"
