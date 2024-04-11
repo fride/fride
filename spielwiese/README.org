@@ -1,0 +1,7 @@
+# Jans Playground aka Spielwiese
+
+This folder contains experiemnts, prototypes, and Schnapsideen.
+
+- gleam
+- rust
+- ...
