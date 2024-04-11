@@ -1,6 +1,6 @@
 # Jans Playground aka Spielwiese
 
-This folder contains experiemnts, prototypes, and Schnapsideen.
+This folder contains experiemnts, prototypes, and [[Schnapsideen|https://www.collinsdictionary.com/dictionary/german-english/schnapsidee]].
 
 - gleam
 - rust
