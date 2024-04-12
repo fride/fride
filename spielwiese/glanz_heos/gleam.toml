@@ -18,6 +18,11 @@ gleam_json = "~> 1.0"
 glisten = "~> 2.0"
 mug = "~> 1.0"
 snag = "~> 0.3"
+wisp = "~> 0.14"
+mist = "~> 1.0"
+gleam_erlang = "~> 0.25"
+lustre = "~> 4.1"
 
 [dev-dependencies]
 gleeunit = "~> 1.0"
+lustre_dev_tools = "~> 1.1"
