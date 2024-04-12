@@ -2,6 +2,8 @@
 
 a heos api in gleam. As the heos app ain't my cup of tee.
 
+I will need actors. They can be found https://github.com/gleam-lang/otp?tab=readme-ov-file <- there!s
+
 [![Package Version](https://img.shields.io/hexpm/v/glanz_heos)](https://hex.pm/packages/glanz_heos)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/glanz_heos/)
 

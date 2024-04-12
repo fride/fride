@@ -37,7 +37,6 @@ pub fn get_player_infos(
       field("pid", of: int),
       optional_field("version", of: string),
     )
-
   use response <- try(connection(<<"heos://player/get_players\r\n":utf8>>))
   use player_infos <- try(parse_response(response, list(player_info_decoder)))
   Ok(player_infos)
