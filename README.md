@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-This is Jan's stuff. I have no idea what I will put in here.
+This is Jan's stuff. I have no idea what I will put in here. 
+I have a <a href="https://berlin.social/@jnfrd" rel="me">Mastodon</a> account.
 
 <!--
 **fride/fride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- My <a href="https://berlin.social/@jnfrd" rel="me">Mastodon</a> account.
+- My 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
