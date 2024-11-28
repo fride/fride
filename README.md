@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is Jan's stuff. I have no idea what I will put in here. 
-I have a <a href="https://berlin.social/@jnfrd" rel="me">Mastodon</a> account.
+I have a <a rel="me" href="https://berlin.social/@jnfrd">Mastodon</a> account.
 
 <!--
 **fride/fride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
