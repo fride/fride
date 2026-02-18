@@ -2,7 +2,7 @@
 
 This is Jan's stuff. I won't put new stuff here as I do not want to teach a company for free how to code.
 I have a <a rel="me" href="https://berlin.social/@jnfrd">Mastodon</a> account.
-You can find some of my code at <a href="https://codeberg.org/jnfrd">codeberg</a>
+You can find some of my code at <a href="https://codeberg.org/jnfrd">Codeberg</a>
 
 <!--
 **fride/fride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
